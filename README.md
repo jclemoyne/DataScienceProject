@@ -1,9 +1,8 @@
 # DataScienceProject
 This is the repository of all the examples that accompany the book:
-              Data Science Project 
-              Building Predictive Machines 
-              For Data Analytics
+              ## Data Science Project 
+              ## Building Predictive Machines 
+              ## For Data Analytics
  by (c) Copyright 2018 - Jean Claude Lemoyne
 
-Table of Content
-================
+## Table of Content
